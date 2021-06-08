@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/games/static/css/main.e2dd1764.chunk.css",
+    "main.js": "/games/static/js/main.8a373b14.chunk.js",
+    "main.js.map": "/games/static/js/main.8a373b14.chunk.js.map",
+    "runtime-main.js": "/games/static/js/runtime-main.413ab4d9.js",
+    "runtime-main.js.map": "/games/static/js/runtime-main.413ab4d9.js.map",
+    "static/js/2.9f9eacb9.chunk.js": "/games/static/js/2.9f9eacb9.chunk.js",
+    "static/js/2.9f9eacb9.chunk.js.map": "/games/static/js/2.9f9eacb9.chunk.js.map",
+    "index.html": "/games/index.html",
+    "precache-manifest.e9795fb3616ad0fa8ee10a31deb607ed.js": "/games/precache-manifest.e9795fb3616ad0fa8ee10a31deb607ed.js",
+    "service-worker.js": "/games/service-worker.js",
+    "static/css/main.e2dd1764.chunk.css.map": "/games/static/css/main.e2dd1764.chunk.css.map",
+    "static/js/2.9f9eacb9.chunk.js.LICENSE.txt": "/games/static/js/2.9f9eacb9.chunk.js.LICENSE.txt",
+    "static/media/cat.png": "/games/static/media/cat.fbcd0cf9.png",
+    "static/media/facts.png": "/games/static/media/facts.b73bfb2d.png",
+    "static/media/paint.png": "/games/static/media/paint.b7fad84e.png",
+    "static/media/suerte.jpg": "/games/static/media/suerte.0b4a5ff5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.413ab4d9.js",
+    "static/js/2.9f9eacb9.chunk.js",
+    "static/css/main.e2dd1764.chunk.css",
+    "static/js/main.8a373b14.chunk.js"
+  ]
+}
