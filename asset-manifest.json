@@ -1,26 +1,33 @@
 {
   "files": {
-    "main.css": "/games/static/css/main.e2dd1764.chunk.css",
-    "main.js": "/games/static/js/main.8a373b14.chunk.js",
-    "main.js.map": "/games/static/js/main.8a373b14.chunk.js.map",
+    "main.css": "/games/static/css/main.2e15834f.chunk.css",
+    "main.js": "/games/static/js/main.fc09422c.chunk.js",
+    "main.js.map": "/games/static/js/main.fc09422c.chunk.js.map",
     "runtime-main.js": "/games/static/js/runtime-main.413ab4d9.js",
     "runtime-main.js.map": "/games/static/js/runtime-main.413ab4d9.js.map",
-    "static/js/2.9f9eacb9.chunk.js": "/games/static/js/2.9f9eacb9.chunk.js",
-    "static/js/2.9f9eacb9.chunk.js.map": "/games/static/js/2.9f9eacb9.chunk.js.map",
+    "static/js/2.8db0c232.chunk.js": "/games/static/js/2.8db0c232.chunk.js",
+    "static/js/2.8db0c232.chunk.js.map": "/games/static/js/2.8db0c232.chunk.js.map",
     "index.html": "/games/index.html",
-    "precache-manifest.e9795fb3616ad0fa8ee10a31deb607ed.js": "/games/precache-manifest.e9795fb3616ad0fa8ee10a31deb607ed.js",
+    "precache-manifest.28e9f4def23a37df1063e9ea5e54914e.js": "/games/precache-manifest.28e9f4def23a37df1063e9ea5e54914e.js",
     "service-worker.js": "/games/service-worker.js",
-    "static/css/main.e2dd1764.chunk.css.map": "/games/static/css/main.e2dd1764.chunk.css.map",
-    "static/js/2.9f9eacb9.chunk.js.LICENSE.txt": "/games/static/js/2.9f9eacb9.chunk.js.LICENSE.txt",
+    "static/css/main.2e15834f.chunk.css.map": "/games/static/css/main.2e15834f.chunk.css.map",
+    "static/js/2.8db0c232.chunk.js.LICENSE.txt": "/games/static/js/2.8db0c232.chunk.js.LICENSE.txt",
     "static/media/cat.png": "/games/static/media/cat.fbcd0cf9.png",
     "static/media/facts.png": "/games/static/media/facts.b73bfb2d.png",
+    "static/media/fatboo.png": "/games/static/media/fatboo.1f84f69c.png",
+    "static/media/freezer.png": "/games/static/media/freezer.d5faf0e7.png",
+    "static/media/goku.jpg": "/games/static/media/goku.57659d41.jpg",
+    "static/media/memogame.png": "/games/static/media/memogame.6dddf0f1.png",
     "static/media/paint.png": "/games/static/media/paint.b7fad84e.png",
-    "static/media/suerte.jpg": "/games/static/media/suerte.0b4a5ff5.jpg"
+    "static/media/piccoro.jpg": "/games/static/media/piccoro.a2d3acf1.jpg",
+    "static/media/roshi.jpg": "/games/static/media/roshi.aaa16560.jpg",
+    "static/media/suerte.jpg": "/games/static/media/suerte.0b4a5ff5.jpg",
+    "static/media/videl.png": "/games/static/media/videl.d78c5e98.png"
   },
   "entrypoints": [
     "static/js/runtime-main.413ab4d9.js",
-    "static/js/2.9f9eacb9.chunk.js",
-    "static/css/main.e2dd1764.chunk.css",
-    "static/js/main.8a373b14.chunk.js"
+    "static/js/2.8db0c232.chunk.js",
+    "static/css/main.2e15834f.chunk.css",
+    "static/js/main.fc09422c.chunk.js"
   ]
 }
